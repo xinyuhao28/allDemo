@@ -188,11 +188,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.NettyServer" />
       <item itemvalue="Spring Boot.DubboProviderDemo" />
       <item itemvalue="Spring Boot.LoadBalanceDubboConsumerDemo" />
       <item itemvalue="Spring Boot.MockDubboConsumerDemo" />
       <item itemvalue="Spring Boot.StubDubboConsumerDemo" />
-      <item itemvalue="Application.NettyServer" />
     </list>
     <recent_temporary>
       <list>
