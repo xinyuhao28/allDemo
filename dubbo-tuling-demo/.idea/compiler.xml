@@ -9,6 +9,7 @@
         <module name="interface" />
         <module name="provider" />
         <module name="consumer" />
+        <module name="netty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
