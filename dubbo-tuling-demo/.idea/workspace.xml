@@ -20,6 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
@@ -52,6 +53,21 @@
                 </list>
               </option>
               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev_test" />
+                    <option name="lastUsedInstant" value="1620407597" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1620407596" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
             </RecentBranchesForRepo>
           </list>
         </option>
@@ -204,7 +220,7 @@
       <workItem from="1620226302532" duration="158000" />
       <workItem from="1620226561494" duration="12574000" />
       <workItem from="1620242777857" duration="23417000" />
-      <workItem from="1620404757412" duration="2298000" />
+      <workItem from="1620404757412" duration="3166000" />
     </task>
     <servers />
   </component>
